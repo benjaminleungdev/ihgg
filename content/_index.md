@@ -1,27 +1,16 @@
 ---
-title: 🪴 Quartz 3.
+title: The Indie Hacker's Guide to the Galaxy 📕
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hi, there 👋.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Welcome to **The Indie Hacker's Guide to the Galaxy (IHGG)**!
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+This aims to become the most comprehensive resource on everything to do with [Indie Hacking](https://www.indiehackers.com/start).
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+# Starting Points
+- [[Notes/Business Models]]: Learn about the different models that successful business are built around.
+- [[Notes/Companies]]: Learn from the experience of real businesses who build in public.
+- [[Notes/People]]: Get inspired by the people who are shaping the digital world.
+- [[Notes/Resources]]: A list of some of the best resources on the web to help start your journey.

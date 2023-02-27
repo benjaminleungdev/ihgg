@@ -1,0 +1,2 @@
+> [!DANGER] Title
+> Contents
